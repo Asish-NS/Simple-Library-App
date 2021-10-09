@@ -12,7 +12,7 @@ class BrowseBook extends StatelessWidget {
     return MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          backgroundColor: Colors.pinkAccent,
+          backgroundColor: Colors.purpleAccent,
           centerTitle: true,
           title: Text("Books Available"),
         ),
